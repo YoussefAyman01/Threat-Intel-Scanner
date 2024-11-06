@@ -1,0 +1,5 @@
+Malicious_ip.txt:    51.195.88.32 is Malicious, Detected by 10 solutions, Country: FR
+                     5.8.11.202 is Malicious, Detected by 12 solutions, Country: RU
+
+whitelisted_ips.txt:  10.10.11.148 is clean
+                      52.42.49.200 is clean
